@@ -14,7 +14,7 @@ const projects = [
       "Actionable feedback on resume structure",
       "Direct role-matching to ensure industry alignment",
     ],
-    github: "#",
+    github: "https://github.com/mxanuj07/ats-ai-analyzer",
     live: "#",
     accent: "#6C63FF",
     accentSecondary: "#9B8AFB",

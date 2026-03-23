@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail, ArrowUp, Instagram } from "lucide-react";
 import { motion } from "motion/react";
 
 const socials = [
-  { icon: Github, href: "https://github.com/", label: "GitHub" },
+  { icon: Github, href: "https://github.com/mxanuj07", label: "GitHub" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/anuj-hiwarkar-4a0b45352/", label: "LinkedIn" },
   { icon: Instagram, href: "https://www.instagram.com/", label: "Instagram" },
   { icon: Mail, href: "mailto:hiwarkaranuj@gmail.com", label: "Email" },
