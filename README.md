@@ -80,7 +80,7 @@ npm install
 npm run dev
 ```
 
-Open your browser and visit: **http://localhost:3000**
+Open your browser and visit:[ **http://localhost:3000**](https://portfolio-site-rose-eta.vercel.app/)
 
 ---
 
