@@ -130,7 +130,7 @@ Portfolio/
 
 - 📧 Email: [hiwarkaranuj@gmail.com](mailto:hiwarkaranuj@gmail.com)
 - 💼 LinkedIn: [anuj-hiwarkar](https://www.linkedin.com/in/anuj-hiwarkar-4a0b45352/)
-- 🐙 GitHub: github.com/https://github.com/
+- 🐙 GitHub: github.com/https://github.com/mxanuj07/
 
 ---
 
