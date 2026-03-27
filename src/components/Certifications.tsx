@@ -48,6 +48,15 @@ const certifications = [
     size: "large",
     accent: "#6C63FF",
   },
+  {
+    title: "Data Analytics Job Simulation",
+    issuer: "Deloitte",
+    year: "2026",
+    image: "/certificate 06.png",
+    link: "#",
+    size: "large",
+    accent: "#86BC25",
+  },
 ];
 
 function CertCard({ cert, index }: { cert: typeof certifications[0]; index: number }) {
